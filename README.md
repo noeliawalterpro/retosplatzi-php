@@ -17,3 +17,6 @@ https://platzi.com/comunidad/retos-de-programacion-en-cualquier-lenguaje-quinto-
 
 - Retos de programación en cualquier lenguaje - Sexto nivel: ciclo 'while'
 https://platzi.com/comunidad/retos-de-programacion-en-cualquier-lenguaje-sexto-nivel-ciclo-while-2/
+
+- ¿Cómo aprender a programar desde cero? #PlatziCodingChallenge #PlatziChallenge | Escuela de Desarrollo Web
+https://platzi.com/blog/como-aprender-a-programar-desde-cero-platzi/
